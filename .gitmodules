@@ -1,3 +1,6 @@
 [submodule "MealDeal-Backend"]
 	path = MealDeal-Backend
 	url = git@github.com:saadparwaiz1/MealDeal-Backend.git
+[submodule "MealDeal-Frontend"]
+	path = MealDeal-Frontend
+	url = git@github.com:justinghaeli/MealDeal-Frontend.git
